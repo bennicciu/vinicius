@@ -52,4 +52,6 @@ while True:
 
     if jogar_novamente != "sim":
         print("vai correr ent? covarde")
-        break
+        break]
+        
+        # ahdcducjj
